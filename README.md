@@ -1,4 +1,4 @@
-# CampusGig (web)
+# CampusGig (webapp)
 
 CampusGig is a minimal single-page demo marketplace for short campus gigs (Hirer & Runner roles). It is built with React + TypeScript, bundled with Vite, and styled with Tailwind CSS. The app is intentionally simple and uses in-memory state for jobs so you can iterate quickly.
 
@@ -54,7 +54,7 @@ pnpm format
 
 > Note: All commands above intentionally use `pnpm` to install/run scripts.
 
-# CampusGig (web)
+# CampusGig (webapp)
 
 CampusGig is a minimal single-page demo marketplace for short campus gigs (Hirer & Runner roles). It is built with React + TypeScript, bundled with Vite, and styled with Tailwind CSS. The app is intentionally simple and uses in-memory state for jobs to facilitate rapid iteration.
 
